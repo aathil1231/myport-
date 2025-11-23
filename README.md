@@ -1,2 +1,3 @@
 # myport-
-This is my Portfolio web cod e
+This is my Portfolio for my construction-related Professionalism.  
+
